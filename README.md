@@ -4,6 +4,11 @@ Recopilación de los repositorios de forma general.
 
 ---
 
+[**GestorEscenasUnity**][12] : Gestor de escenas con funcionalidad Sync para Unity3D.
+![007][13]
+
+---
+
 [**ia.party.u5**][0] : Prueba de una IA grupal basica con estado en cambio mediante fisicas.
 ![001][1]
 
@@ -30,7 +35,10 @@ Recopilación de los repositorios de forma general.
 ---
 
 [**CustomInspectorUnity**][10] : Algunos tips para el editor de Unity3D.
+
 ![006][11]
+
+---
 
 
 [0]: https://github.com/MoonAntonio/ia.party.u5
@@ -45,3 +53,5 @@ Recopilación de los repositorios de forma general.
 [9]: https://github.com/MoonAntonio/2d-draw-unity/blob/master/Resources/img/GIF.gif?raw=true
 [10]: https://github.com/MoonAntonio/CustomInspectorUnity
 [11]: https://github.com/MoonAntonio/CustomInspectorUnity/blob/master/Rec/preview.gif?raw=true
+[12]: https://github.com/MoonAntonio/GestorEscenasUnity
+[13]: https://github.com/MoonAntonio/GestorEscenasUnity/blob/master/res/preview.gif?raw=true
