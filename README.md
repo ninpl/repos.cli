@@ -3,7 +3,7 @@ Recopilación de los repositorios de forma general.
 
 ---
 
-[**LightsManager**][13] : Herramienta para controlar la iluminacion de Unity3D.
+[**LightsManager**][13] [Incorporado en Unity 5.6] : Herramienta para controlar la iluminacion de Unity3D.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/LightsManager.svg)](https://github.com/MoonAntonio/LightsManager/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
