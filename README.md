@@ -106,7 +106,8 @@ Recopilación de los repositorios de forma general.
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/UnityEditor-MiniExtension/master/LICENSE)
-<p align="center"><img src="https://raw.githubusercontent.com/lPinchol/UnityEditor-MiniExtension/master/Resources/Img/RayCastDebugExt.png"></p>
+
+**Actualmente reconstruyendo**
 
 ---
 
@@ -124,7 +125,7 @@ Recopilación de los repositorios de forma general.
 [0]: https://github.com/MoonAntonio/ia.party.u5
 [2]: https://github.com/MoonAntonio/u.camara.shake
 [4]: https://github.com/MoonAntonio/u.preloader
-[6]: https://github.com/MoonAntonio/UnityEditor-MiniExtension
+[6]: 
 [8]: https://github.com/MoonAntonio/2d-draw-unity
 [10]: https://github.com/MoonAntonio/CustomInspectorUnity
 [12]: https://github.com/MoonAntonio/GestorEscenasUnity
