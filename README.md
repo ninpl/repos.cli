@@ -8,7 +8,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.roomba2.svg)](https://github.com/MoonAntonio/u.roomba2/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.6.1f1-blue.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/u.roomba2)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/u.roomba2/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/u.roomba2/blob/master/res/001.gif?raw=true"></p>
 
@@ -19,7 +18,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/WaterLowpoly.svg)](https://github.com/MoonAntonio/WaterLowpoly/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.6.1f1-blue.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/WaterLowpoly)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/WaterLowpoly/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/WaterLowpoly/blob/master/res/imgPrev.jpg?raw=true"></p>
 
@@ -30,7 +28,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/LightsManager.svg)](https://github.com/MoonAntonio/LightsManager/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/LightsManager)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/LightsManager/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/LightsManager/blob/master/res/preview.gif?raw=true"></p>
 
@@ -81,7 +78,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UBallisticaProject.svg)](https://github.com/MoonAntonio/UBallisticaProject/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/UBallisticaProject)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/UBallisticaProject/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/UBallisticaProject/blob/master/Res/prevSimple.gif?raw=true"></p>
 
@@ -92,7 +88,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/pb-unity.svg)](https://github.com/MoonAntonio/pb-unity/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/pb-unity)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/pb-unity/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/pb-unity/blob/master/Res/prev.gif?raw=true"></p>
 
@@ -103,7 +98,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.data.svg)](https://github.com/MoonAntonio/u.data/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/u.data)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/u.data/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/u.data/blob/master/Res/prevGraph.gif?raw=true"></p>
 
@@ -114,7 +108,6 @@ Recopilación de los repositorios de forma general.
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.roomba.svg)](https://github.com/MoonAntonio/u.roomba/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/u.roomba/master/LICENSE)
 <p align="center"><img src="https://github.com/MoonAntonio/u.roomba/blob/master/Res/imgPrev.gif?raw=true"></p>
 
@@ -126,7 +119,6 @@ Recopilación de los repositorios de forma general.
 [![UnityVersion-](https://img.shields.io/badge/Unity-4.6.2f1-blue.svg)](https://unity3d.com/es)
 [![UnityVersion+](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
-[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/UnityEditor-MiniExtension/master/LICENSE)
 
 **Actualmente reconstruyendo**
