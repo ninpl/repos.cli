@@ -3,6 +3,16 @@ Recopilación de los repositorios de forma general.
 
 ---
 
+[**Manager Escenas en Memoria**][22] Control de carga de escenas asyncronamente.
+
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/scne-memory.svg)](https://github.com/MoonAntonio/scne-memory/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.6.1p4-red.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/scne-memory)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/scne-memory/master/LICENSE)
+<p align="center"><img src="https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true"></p>
+
+---
+
 [**UGUI-Menu**][21] Menu circular desarrollado con C# en Unity3D, con UGUI.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/menu-circular.svg)](https://github.com/MoonAntonio/menu-circular/issues)
@@ -172,3 +182,4 @@ Recopilación de los repositorios de forma general.
 [19]: https://github.com/MoonAntonio/u.roomba2
 [20]: https://github.com/MoonAntonio/UGUI-Effect
 [21]: https://github.com/MoonAntonio/menu-circular
+[22]: https://github.com/MoonAntonio/scne-memory
