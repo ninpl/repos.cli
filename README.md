@@ -15,7 +15,7 @@ Recopilación de los repositorios de forma general.
 
 ---
 
-[**Manager Escenas en Memoria**][22] Control de carga de escenas asyncronamente.
+[**Manager Escenas en Memoria**][22] Control de carga de escenas.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/scne-memory.svg)](https://github.com/MoonAntonio/scne-memory/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.6.1p4-red.svg)](https://unity3d.com/es)
