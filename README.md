@@ -39,7 +39,7 @@ Recopilación de los repositorios de forma general.
 
 ---
 
-[**UGUI-Effect**][20] Efectos para la nueva UI. Sin Efectos de Imagen. Solo Sprites y textos.
+[**UGUI-Effect**][20] Efectos para UGUI. Sin Efectos de Imagen. Solo Sprites y textos.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UGUI-Effect.svg)](https://github.com/MoonAntonio/UGUI-Effect/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.6.1f1-blue.svg)](https://unity3d.com/es)
