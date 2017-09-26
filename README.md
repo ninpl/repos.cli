@@ -3,6 +3,18 @@ Recopilación de los repositorios de forma general.
 
 ---
 
+[**PCG Test**][25] Unas pruebas para tocar los algoritmos procedurales. La explicacion detallada [aqui](https://moonantonio.github.io/post/2017/dev/012/)
+
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/pcg.svg)](https://github.com/MoonAntonio/pcg/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/pcg)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/pcg/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/pcg.svg)](https://github.com/MoonAntonio/pcg/network)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/pcg/master/LICENSE)
+<p align="center"><img src="https://github.com/MoonAntonio/pcg/blob/master/res/001.gif?raw=true"></p>
+
+---
+
 [**Proto-Tactic**][24] Prototipo inicial de un juego tactico.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/issues)
@@ -237,3 +249,4 @@ Recopilación de los repositorios de forma general.
 [22]: https://github.com/MoonAntonio/scne-memory
 [23]: https://github.com/MoonAntonio/UKeybindsC
 [24]: https://github.com/MoonAntonio/Proto-Tactic
+[25]: https://github.com/MoonAntonio/pcg
