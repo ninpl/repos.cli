@@ -1,5 +1,5 @@
 # Recopilación Repositorios Unity3D
-Recopilación de los repositorios de forma general.
+Recopilación de los repositorios generales.
 
 ---
 
