@@ -27,7 +27,7 @@ Recopilación de los repositorios generales.
 
 ---
 
-[**UKeybindsC**][23] Enlace de teclado y controles en Unity3D(Basico).
+[**UKeybindsC**][23] Enlace de teclado y controles en Unity3D (Basico).
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UKeybindsC.svg)](https://github.com/MoonAntonio/UKeybindsC/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
