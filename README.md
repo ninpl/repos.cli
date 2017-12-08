@@ -3,7 +3,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**UnityEditor-MiniExtension**][6] : Mini extension para el editor de Unity3D.
+[**UnityEditor-MiniExtension**][6] : Mini extensiones para el editor de Unity3D.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UnityEditor-MiniExtension.svg)](https://github.com/MoonAntonio/UnityEditor-MiniExtension/issues)
 [![UnityVersion-](https://img.shields.io/badge/Unity-2017.2.0f3-orange.svg)](https://unity3d.com/es)
