@@ -35,7 +35,7 @@ Recopilación de los repositorios generales de Unity 3D.
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/UnityEditor-MiniExtension/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/UnityEditor-MiniExtension.svg)](https://github.com/MoonAntonio/UnityEditor-MiniExtension/network)
 [![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/UnityEditor-MiniExtension.svg)](https://github.com/MoonAntonio/UnityEditor-MiniExtension/stargazers)
-<p align="center">**Actualmente reconstruyendo**</p>
+<p align="center">**Actualmente reconstruyendo las extensiones**</p>
 
 ---
 
