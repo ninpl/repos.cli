@@ -3,6 +3,18 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
+[**UCamaraSetup**][28] : Setup de camara para el engine Unity3D..
+
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UCamaraSetup.svg)](https://github.com/MoonAntonio/UCamaraSetup/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/UCamaraSetup)
+[![GitHub license](https://img.shields.io/github/license/MoonAntonio/UCamaraSetup.svg)](https://github.com/MoonAntonio/UCamaraSetup/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/UCamaraSetup.svg)](https://github.com/MoonAntonio/UCamaraSetup/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/UCamaraSetup.svg)](https://github.com/MoonAntonio/UCamaraSetup/stargazers)
+<p align="center"><img src="https://github.com/MoonAntonio/UCamaraSetup/blob/master/res/prev.gif"></p>
+
+---
+
 [**Beta Sanbox**][27] : Entorno beta para realizar pruebas en Unity3D (TIPO B-A).
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/Beta-Sanbox.svg)](https://github.com/MoonAntonio/Beta-Sanbox/issues)
@@ -278,3 +290,4 @@ Recopilación de los repositorios generales de Unity 3D.
 [25]: https://github.com/MoonAntonio/pcg
 [26]: https://github.com/MoonAntonio/beta-xbot
 [27]: https://github.com/MoonAntonio/Beta-Sanbox
+[28]: https://github.com/MoonAntonio/UCamaraSetup
