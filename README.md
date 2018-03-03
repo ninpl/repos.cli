@@ -3,7 +3,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**UCamaraSetup**][28] : Setup de camara para el engine Unity3D..
+[**UCamaraSetup**][28] : Setup de camara tripode.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/UCamaraSetup.svg)](https://github.com/MoonAntonio/UCamaraSetup/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
