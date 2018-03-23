@@ -27,7 +27,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**Beta X Bot**][26] : Modelo Beta para Unity3D.
+[**Beta X Bot**][26] : Modelo Beta para Unity3D (Rig).
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/beta-xbot.svg)](https://github.com/MoonAntonio/beta-xbot/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.2.0f3-orange.svg)](https://unity3d.com/es)
