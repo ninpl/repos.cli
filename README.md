@@ -51,7 +51,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**PCG Test**][25] Unas pruebas para tocar los algoritmos procedurales. La explicacion detallada [aqui](https://moonantonio.github.io/post/2017/dev/012/).
+[**PCG Test**][25] Unas pruebas para tocar los algoritmos procedurales. La explicacion detallada [aqui].(https://moonantonio.github.io/post/2017/dev/012/).
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/pcg.svg)](https://github.com/MoonAntonio/pcg/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
