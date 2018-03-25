@@ -195,7 +195,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**u.preloader**][4] : Escena de preloader en Unity3D con varios ejemplos. Se puede usar plugins como NGUI o si lo prefieres el mismo UGUI.
+[**u.preloader**][4] : Escena de preloader en Unity3D. Se puede usar plugins como NGUI o si lo prefieres el mismo UGUI.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.preloader.svg)](https://github.com/MoonAntonio/u.preloader/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
