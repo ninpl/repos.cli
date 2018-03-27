@@ -99,7 +99,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**UGUI-Menu**][21] Menu circular desarrollado con C# en Unity3D, con UGUI.
+[**UGUI-Menu**][21] Menu circular en Unity3D, con UGUI.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/menu-circular.svg)](https://github.com/MoonAntonio/menu-circular/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
