@@ -123,7 +123,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**Roomba 2.0**][19] Estudio y puesta en accion de un roomba 2.0 en Unity3D mejorando la version 1.
+[**Roomba 2.0**][19] Estudio y puesta en accion de un roomba 2.0 en Unity3D.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.roomba2.svg)](https://github.com/MoonAntonio/u.roomba2/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
