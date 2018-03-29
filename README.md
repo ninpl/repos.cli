@@ -135,7 +135,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**WaterLowpoly**][18] Un pequeño shader para el agua con un estilo low poly.
+[**WaterLowpoly**][18] Un pequeño shader para el agua con un estilo Zelda.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/WaterLowpoly.svg)](https://github.com/MoonAntonio/WaterLowpoly/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.6.1f1-blue.svg)](https://unity3d.com/es)
