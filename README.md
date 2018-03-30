@@ -171,7 +171,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**ia.party.u5**][0] : Prueba de una IA grupal basica con estado en cambio mediante fisicas.
+[**ia.party.u5**][0] : Prueba de una IA grupal basica mediante fisicas.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/ia.party.u5.svg)](https://github.com/MoonAntonio/ia.party.u5/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
