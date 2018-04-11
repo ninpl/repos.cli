@@ -3,7 +3,7 @@ Recopilación de los repositorios generales de CPP.
 
 ---
 
-[**SnakeCPP**][1] : Mini juego del clasico Snake de toda la vida.
+[**SnakeCPP**][1] : Mini juego del clasico Snake de toda la vida (Con demasiado refresco ;S).
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/SnakeCPP.svg)](https://github.com/MoonAntonio/SnakeCPP/issues)
 [![Codeblocks](https://img.shields.io/badge/Code%3A%3ABlocks-16.01-ff69b4.svg)](http://www.codeblocks.org/)
