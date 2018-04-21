@@ -1,5 +1,5 @@
 # Recopilación Repositorios
-Recopilación de los repositorios generales.
+Recopilación de los repositorios generales organizados por framework o lenguaje.
 
 ---
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/unity.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/READMEunity.md)
