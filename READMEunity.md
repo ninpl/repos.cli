@@ -3,7 +3,7 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**Imagen2Text**][31] : Convierte en bytes una imagen.
+[**Imagen2Text**][31] : Convierte en bytes una imagen. Para luego cargar desde memoria.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/Imagen2Text.svg)](https://github.com/MoonAntonio/Imagen2Text/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
