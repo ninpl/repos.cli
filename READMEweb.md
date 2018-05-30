@@ -18,8 +18,15 @@ Recopilación de los repositorios generales de lenguajes web.
 
 ---
 
+[**Scared Min 404**][3] : Pagina 404 minimalista.
+
+<p align="center"><img src=https://github.com/MoonAntonio/scared-min-404/blob/master/prev404.gif></p>
+
+---
+
 .\Moon
 
 [1]: https://github.com/MoonAntonio/rediset-minimal
 [2]: https://github.com/MoonAntonio/aboutmoon
+[3]: https://github.com/MoonAntonio/scared-min-404
 
