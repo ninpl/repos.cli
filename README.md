@@ -7,6 +7,7 @@ Recopilación de los repositorios generales organizados por categorias.
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/moontype.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/READMEmoontype.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/cpp.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/READMEcpp.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/nervealexandria.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/READMEnervealexandria.md)
+[![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/web.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/READMEweb.md)
 
 <font color="black">**.**</font><font color="lightblue">**`\`**</font><font color="purple">**M**</font><font color="purple">**o**</font><font color="purple">**o**</font><font color="purple">**n**</font>
 
