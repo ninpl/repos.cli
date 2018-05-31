@@ -4,10 +4,7 @@ Recopilación de los repositorios generales organizados por categorias.
 ---
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/unity.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEunity.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/unreal.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEunreal.md)
-[![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/moontype.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEmoontype.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/cpp.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEcpp.md)
-[![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/nervealexandria.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEnervealexandria.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/web.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEweb.md)
 
 <font color="black">**.**</font><font color="lightblue">**`\`**</font><font color="purple">**M**</font><font color="purple">**o**</font><font color="purple">**o**</font><font color="purple">**n**</font>
-
