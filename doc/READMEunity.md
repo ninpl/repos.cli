@@ -3,6 +3,13 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
+
+[![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/moontype.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEmoontype.md)
+[![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/nervealexandria.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEnervealexandria.md)
+
+
+---
+
 [**Imagen2Text**][31] : Convierte en bytes una imagen. Para luego cargar desde memoria.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/Imagen2Text.svg)](https://github.com/MoonAntonio/Imagen2Text/issues)
