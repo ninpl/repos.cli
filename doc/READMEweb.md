@@ -13,6 +13,13 @@ Recopilación de los repositorios generales de lenguajes web.
 
 ---
 
+
+[**About Moon v2**][5] : Pagina basica de portfolio.
+
+<p align="center"><img src="https://github.com/MoonAntonio/aboutmoon/blob/master/aboutmoonv2Prev.gif?raw=true"></p>
+
+---
+
 [**Rediset Minimal**][1] : Pagina minimalista basica.
 
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/rediset-minimal.svg)](https://github.com/MoonAntonio/rediset-minimal/issues)
@@ -40,3 +47,4 @@ Recopilación de los repositorios generales de lenguajes web.
 [2]: https://github.com/MoonAntonio/aboutmoon
 [3]: https://github.com/MoonAntonio/scared-min-404
 [4]: https://github.com/MoonAntonio/github-windows
+[5]: https://github.com/MoonAntonio/aboutmoonv2
