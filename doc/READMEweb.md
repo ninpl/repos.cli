@@ -16,7 +16,7 @@ Recopilación de los repositorios generales de lenguajes web.
 
 [**About Moon v2**][5] : Pagina basica de portfolio.
 
-<p align="center"><img src="https://github.com/MoonAntonio/aboutmoon/blob/master/aboutmoonv2Prev.gif?raw=true"></p>
+<p align="center"><img src="https://github.com/MoonAntonio/aboutmoonv2/blob/master/aboutmoonv2Prev.gif?raw=true"></p>
 
 ---
 
