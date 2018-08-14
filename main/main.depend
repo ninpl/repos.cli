@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534238175 source:g:\moon\user\github\rec.repos\main\main.cpp
+	<iostream>
+	<cstdlib>
+
