@@ -118,6 +118,10 @@ void MenuUnreal()
 void MenuCPP()
 {
     cout << "************      Lista  C/C++        ************" << endl;
+
+    cout << "Codingame - > https://github.com/MoonAntonio/codingame" << endl;
+    cout << "SnakeCPP  - > https://github.com/MoonAntonio/SnakeCPP" << endl;
+
     cout << "**************************************************" << endl;
 
     cout << "1-> Volver" << endl;
@@ -129,6 +133,13 @@ void MenuCPP()
 void MenuWeb()
 {
     cout << "************      Lista  Web          ************" << endl;
+
+    cout << "Github-windows  - > https://github.com/MoonAntonio/github-windows" << endl;
+    cout << "Aboutmoonv2     - > https://github.com/MoonAntonio/aboutmoonv2" << endl;
+    cout << "Rediset-minimal - > https://github.com/MoonAntonio/rediset-minimal" << endl;
+    cout << "Aboutmoon       - > https://github.com/MoonAntonio/aboutmoon" << endl;
+    cout << "Scared-min-404  - > https://github.com/MoonAntonio/scared-min-404" << endl;
+
     cout << "**************************************************" << endl;
 
     cout << "1-> Volver" << endl;
@@ -140,6 +151,14 @@ void MenuWeb()
 void MenuSubMoon()
 {
     cout << "************    Lista  Moon-Type      ************" << endl;
+
+    cout << "MTodo       - > https://github.com/MOON-TYPE/MTodo" << endl;
+    cout << "MDev        - > https://github.com/MOON-TYPE/MDev" << endl;
+    cout << "Moonlib     - > https://github.com/MOON-TYPE/Moonlib" << endl;
+    cout << "MIcaros     - > https://github.com/MOON-TYPE/MIcaros" << endl;
+    cout << "MDoc        - > https://github.com/MOON-TYPE/MDoc" << endl;
+    cout << "MHierarchy  - > https://github.com/MOON-TYPE/MHierarchy" << endl;
+
     cout << "**************************************************" << endl;
 
     cout << "1-> Volver" << endl;
