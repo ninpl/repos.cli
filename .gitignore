@@ -19,6 +19,7 @@
 #################  
   
 *.depend  
+main/main.depend
 *.layout  
   
 ############  
