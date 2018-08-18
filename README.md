@@ -8,4 +8,4 @@ Recopilación de los repositorios generales organizados.
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/web.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEweb.md)
 
 <font color="black">**.**</font><font color="lightblue">**`\`**</font><font color="purple">**M**</font><font color="purple">**o**</font><font color="purple">**o**</font><font color="purple">**n**</font>
-.\AntonioMoon
+\AntonioMoon
