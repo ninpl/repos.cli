@@ -7,6 +7,17 @@ Recopilación de los repositorios generales de Unity 3D.
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/moontype.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEmoontype.md)
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/nervealexandria.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEnervealexandria.md)
 
+---
+
+[**BXT-TBBS**][32] : Sistema de batalla por turnos en Unity3D.
+
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/BXT-TBBS)
+[![GitHub license](https://img.shields.io/github/license/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/stargazers)
+<p align="center"><img src="https://github.com/MoonAntonio/BXT-TBBS/blob/master/res/prev.gif?raw=true"></p>
 
 ---
 
@@ -337,3 +348,4 @@ Recopilación de los repositorios generales de Unity 3D.
 [29]: https://github.com/MoonAntonio/BehaviourScenes
 [30]: https://github.com/MoonAntonio/DES
 [31]: https://github.com/MoonAntonio/Imagen2Text
+[32]: https://github.com/MoonAntonio/BXT-TBBS
