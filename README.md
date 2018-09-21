@@ -1,5 +1,5 @@
 # Recopilación Repositorios
-Recopilación de los repositorios.(Click en las imagenes)
+Recopilación de los repositorios. (Click en las imagenes)
 
 ---
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/unity.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEunity.md)
