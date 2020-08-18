@@ -326,8 +326,9 @@ Recopilación de los repositorios generales de Unity 3D.
 
 ---
 
-[**CustomInspectorUnity**][10] : Algunos tips para el editor de Unity3D.
-<p align="center"><img src="https://github.com/MoonAntonio/CustomInspectorUnity/blob/master/Rec/preview.gif?raw=true"></p>
+[**CustomInspectorUnity**][10] : About
+Algunos tips para el editor de Unity3D. Creación, serialización y uso de algunos componentes para mejorar el inspector de nuestros scritps.
+<p align="center"><img src="https://github.com/moonantonio/CustomInspectorUnity/blob/master/res/preview.gif?raw=true"></p>
 
 ---
 
@@ -339,7 +340,7 @@ Recopilación de los repositorios generales de Unity 3D.
 [4]: https://github.com/MoonAntonio/u.preloader
 [6]: https://github.com/MoonAntonio/UnityEditor-MiniExtension
 [8]: https://github.com/MoonAntonio/2d-draw-unity
-[10]: https://github.com/MoonAntonio/CustomInspectorUnity
+[10]: https://github.com/moonantonio/CustomInspectorUnity
 [12]: https://github.com/MoonAntonio/GestorEscenasUnity
 [13]: https://github.com/MoonAntonio/LightsManager
 [14]: https://github.com/MoonAntonio/pb-unity
