@@ -1,0 +1,38 @@
+name: Actualizar README.md
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  Cancelacion:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Cancelar generaciones redundantes
+      uses: styfle/cancel-workflow-action@0.11.0
+      with:
+        access_token: ${{ github.token }}
+  
+  Generar:
+    needs: [Cancelacion]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Generar el README
+      uses: actions/checkout@v3
+    - name: Configurar node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git config user.name ninpl
+        git config user.email antoniomt.moon@gmail.com
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Actualizar README.md con las novedades"
+        git push origin master
