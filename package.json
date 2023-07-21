@@ -1,0 +1,36 @@
+{
+    "name": "moonantonio",
+    "version": "1.0.0",
+    "description": "repos.cli",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "update-readme": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ninpl/repos.cli.git"
+    },
+    "keywords": [
+      "readme",
+      "github profile",
+      "github readme"
+    ],
+    "author": "Antonio Mateo Tomas <antoniomt.moon@gmail.com> (https://ninpl.com/)",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ninpl/repos.cli/issues"
+    },
+    "homepage": "https://github.com/ninpl/repos.cli#readme",
+    "dependencies": {
+      "node-fetch": "2.6.7",
+      "rss-parser": "3.12.0"
+    },
+    "devDependencies": {
+      "standard": "16.0.4"
+    },
+    "eslintConfig": {
+      "extends": "./node_modules/standard/eslintrc.json"
+    }
+  }
