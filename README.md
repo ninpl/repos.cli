@@ -1,5 +1,5 @@
 # Recopilación Repositorios
-Recopilación de los repositorios 4/7/2024  .
+Recopilación de los repositorios 6/7/2024  .
 
 ---
 [![trunk](https://github.com/MoonAntonio/rec.repos/blob/master/res/unity.png?raw=true)](https://github.com/MoonAntonio/rec.repos/blob/master/doc/READMEunity.md)
